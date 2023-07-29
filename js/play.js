@@ -22,14 +22,14 @@ function loadGame(slug){
             if (listGame[j].slug == slug) {
                 var tmp_url = '';
                 if(listGame[j].domain == 1){
-                    tmp_url = 'https://webglmath.github.io/'+slug+"/";
+                    tmp_url = 'https://webglmath.github.io/'+slug+"/home.html";
                 } else if(listGame[j].domain == 2){
-                    tmp_url = 'https://ubg77.github.io/edit/'+slug+"/";
+                    tmp_url = 'https://ubg77.github.io/edit/'+slug+"/home.html";
                 }  else if(listGame[j].domain == 3){
-                    tmp_url = 'https://ubg77.github.io/game131022/'+slug+"/";
+                    tmp_url = 'https://ubg77.github.io/game131022/'+slug+"/home.html";
                     
                 }  else if(listGame[j].domain == 4){
-                    tmp_url = 'https://ubg77.github.io/fix/'+slug+"/";
+                    tmp_url = 'https://ubg77.github.io/fix/'+slug+"/home.html";
                     if(slug.indexOf("fnaf2") != -1){
                         tmp_url = 'https://ubg77.github.io/fix/'+slug;
                     }

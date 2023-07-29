@@ -5450,7 +5450,7 @@ textarea.form-control-lg {
   float: right;
   padding-left: 0.5rem;
   color: #9397ab;
-  content:  var(--bs-breadcrumb-divider, "/") ;
+  content:  var(--bs-breadcrumb-divider, "/home.html") ;
 }
 .breadcrumb-item.active {
   color: #9397ab;

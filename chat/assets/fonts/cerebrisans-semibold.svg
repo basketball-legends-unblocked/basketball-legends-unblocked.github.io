@@ -76,7 +76,7 @@ d="M337 -366h-179l125 643h257z" />
 d="M154 428v209h717v-209h-717z" />
     <glyph glyph-name="period" unicode="." horiz-adv-x="660" 
 d="M329 -20q-60 0 -104 43.5t-44 104.5t44 105t104 44q61 0 105 -44t44 -105t-44 -104.5t-105 -43.5z" />
-    <glyph glyph-name="slash" unicode="/" horiz-adv-x="1196" 
+    <glyph glyph-name="slash" unicode="/home.html" horiz-adv-x="1196" 
 d="M-18 -395l995 1931h237l-995 -1931h-237z" />
     <glyph glyph-name="zero" unicode="0" horiz-adv-x="1200" 
 d="M601 -20q-244 0 -375 186t-131 551t130.5 550t375.5 185q244 0 374.5 -185t130.5 -550t-131 -551t-374 -186zM601 207q122 0 188.5 126t66.5 384q0 259 -67 384t-188 125q-122 0 -188.5 -124.5t-66.5 -384.5q0 -510 255 -510z" />
